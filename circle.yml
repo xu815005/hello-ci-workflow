@@ -4,4 +4,4 @@ machine:
 
 test:
   override:
-    - mocha
+ - ./node_modules/.bin/mocha
