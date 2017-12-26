@@ -1,0 +1,17 @@
+{
+  "name": "hello-ci-workflow",
+  "version": "1.0.0",
+  "description": "Test CI_Flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "xu815005",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
